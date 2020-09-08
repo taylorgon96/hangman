@@ -1,1 +1,1 @@
-# namegenerator
+# hangman
